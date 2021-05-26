@@ -1,0 +1,30 @@
+<<2021-05-26 23:29:36.936622>> Server is starting.
+<<2021-05-26 23:29:40.619910>> Listening to the port (9090)
+<<2021-05-26 23:30:39.278307>> Connected to 127.0.0.1:58623
+<<2021-05-26 23:30:50.986247>> Not found directory: dir 
+Try again!
+<<2021-05-26 23:30:50.986649>> Accepting data: dir
+<<2021-05-26 23:30:50.987281>> Sending data: Not found directory: dir 
+Try again!
+<<2021-05-26 23:31:05.785416>> Home directory saved: dir
+<<2021-05-26 23:31:05.785839>> Accepting data: dir
+<<2021-05-26 23:31:05.786268>> Sending data: Home directory saved: dir
+<<2021-05-26 23:31:17.151562>> Accepting data: cd ..
+<<2021-05-26 23:31:17.151904>> Sending data: None
+<<2021-05-26 23:31:28.078046>> Accepting data: mkdir test
+<<2021-05-26 23:31:28.078474>> Sending data: Ok
+<<2021-05-26 23:31:59.891701>> Accepting data: cd test
+<<2021-05-26 23:31:59.892147>> Sending data: None
+<<2021-05-26 23:32:39.360346>> Client disconnected
+<<2021-05-26 23:32:39.360651>> Listening to the port (9090)
+<<2021-05-26 23:35:28.863961>> Server is starting.
+<<2021-05-26 23:35:31.817225>> Listening to the port (9090)
+<<2021-05-26 23:36:00.311351>> Connected to 127.0.0.1:58704
+<<2021-05-26 23:36:03.873436>> Home directory saved: dir
+<<2021-05-26 23:36:03.873683>> Accepting data: dir
+<<2021-05-26 23:36:03.874292>> Sending data: Home directory saved: dir
+<<2021-05-26 23:36:12.746083>> Accepting data: mkdir test
+<<2021-05-26 23:36:12.746916>> Sending data: Ok
+<<2021-05-26 23:36:18.567190>> Accepting data: cd test
+<<2021-05-26 23:36:18.567703>> Sending data: None
+<<2021-05-27 00:48:05.629786>> Closing connection.
